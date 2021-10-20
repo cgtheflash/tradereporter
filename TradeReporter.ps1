@@ -106,7 +106,7 @@ Good morning,
 I'm alive, active and will be posting trades today. 
 There is $($OpenPositions.count) open position currently from previous trading sessions.
 
--Chris's Trading Bot
+-Trade Reporter
 "@
 }
 elseif ($OpenPositions.count -gt 1) {
@@ -116,7 +116,7 @@ Good morning,
 I'm alive, active and will be posting trades today. 
 There are $($OpenPositions.count) open positions currently from previous trading sessions.
 
--Chris's Trading Bot
+-Trade Reporter
 "@
 }
 else {
@@ -125,7 +125,7 @@ Good morning,
 
 I'm alive, active and will be posting trades today.
 
--Chris's Trading Bot
+-Trade Reporter
 "@
 }
 
