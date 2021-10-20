@@ -3,7 +3,7 @@ Summary:
 Post trades made on the TradeStation platform to discord channel and create trading reports for trade tracking. 
 
 Details:
-1. Open local Outlook client
+1. Open local Outlook client as COM object
 2. Fetch new unread emails from TradeStation in a folder named 'Trades'
 3. Parse the email and create an object
 4. Mark the email as read
